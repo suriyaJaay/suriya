@@ -1,0 +1,54 @@
+{
+  "personalDetails": {    
+    "name": "Jayasuriya M",
+    "phones": {
+      "mobile": "+91-9791383617",      
+    },
+    "email": [
+     "hi.jayasurya@gmail.com"
+    ],
+    "maritalStatus": "Married",
+    "nationality": "India",
+    
+    "address":[{
+      "nativeLoaction":"51 A, Head Post Office Road, Kumbakonam, Thanjavur",
+      "currentLocation":"Perungudi - Chennai 96",
+    }]
+   /* "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
+    ]*/
+  }
+}
+
+
+
+
+
+// {
+//   "personalDetails": {    
+//     "name": "Jayasuriya M",
+//     "phones": {
+//       "mobile": "+91-9791383617",      
+//     },
+//     "email": [
+//      "hi.jayasurya@gmail.com"
+//     ],
+//     "maritalStatus": "Married",
+//     "nationality": "India",
+    
+//     "address":[{
+//       "nativeLoaction":"51 A, Head Post Office Road, Kumbakonam, Thanjavur",
+//       "currentLocation":"Perungudi - Chennai 96",
+//     }]
+  
+//   }
+// }

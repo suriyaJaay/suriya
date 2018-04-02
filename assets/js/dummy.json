@@ -1,0 +1,124 @@
+{
+  "jaay":{
+    "fname": "Jayasuriya",
+    "lname" :"Mohanraj",
+    "dob":"23-Jul-1989",
+    "role" :"Front End Developer",
+    "mobile": "+91-9797383617"
+  },
+  "address":{
+    "line1": "#14, VSU PORSY, Perungudi",
+      "street":"Oomaidurai street",
+      "location":"chennai-600096",
+      "country":"India"
+  },
+  "email":"developer.jaay@gmail.com", 
+  "website":"Yes, Fortunately you're on my site now",
+  "proMangmntTools":{
+    "bugTrack":"JIRA",
+    "sourceCtlr":"SVN"
+  },
+  
+  "eduAndexp":{
+      "designation3": "Software Engineer- Front End Developer",
+      "company3": "HCL Technologies",
+      "startYear3":2017,
+      "startMonth3": "April",
+      "endYear3":"Till",
+      
+      "designation2": "Front End Developer",
+      "company2": "Opteamize Cloud Solutions Pvt Ltd.",
+      "startYear2":2016,
+      "startMonth2": "June",
+      "endYear2":2017,
+      "endMonth2":"March",
+
+      "designation1": "Associate Software Engineer",
+      "company1": "Blue Lotus Support Services Pvt, Ltd",
+      "startYear1":2015,
+      "startMonth1": "May",
+      "endYear1":2016,
+      "endMonth1":"May",
+
+      "postGraduate":"Master of Computer Application",
+        "pgUniv_short":"PRIST University",
+        "pgUniv_long" :"Ponnaiyah Ramajayam Institute of Science and Technology",
+        "pgstream":"Information Technology",
+        "pgType":"Programming",
+        "pgGBA":7.83,
+        "pgStartYear":2011,
+        "pgEndtYear":2013,
+
+        "underGraduate":"Bachelor of Computer Application",
+        "ugUniv" :"SASTRA University",
+        "ugUniv_short":"SRC Campus",
+        "ugstream":"Information Technology",
+        "ugType":"Programming",
+        "ugGBA":6,
+        "ugStartYear":2007,
+        "ugEndtYear":2010,
+
+        "highScool":"High School",
+        "hschool" :"Town Hr. Sec. School",
+        "hsStream":"Computer Science",      
+        "HSmark":73.5,
+        "HSStartYear":2005,
+        "HSEndtYear":2006,
+
+        "secScool":"Secondary School",
+        "sschoolname" :"Town Higher Secondary School",
+        "ssStream":"General",      
+        "SSmark":67.4,
+        "SSStartYear":2004,
+        "SSEndtYear":2005,
+
+        "pgStartMonth" :"May",
+        "pgEndMonth" :"April",
+        "ugStartMonth":"May",
+        "ugEndtMonth":"December",
+        "HSStartMonth":"April",
+        "HSEndMonth":"March",
+        "SSStartMonth":"April",
+        "SSEndMonth":"March"
+     },     
+     "hobbies":{
+        "gamer":"CS:GO",
+        "stamp":"Philatalist",
+        "cartoon":"cartoon",
+        "movies": "Sci-Fi" ,
+        "music":"BGM"
+       },
+     "skills":{
+        "Angular":65,
+        "Angular_Js_1_x":60,
+        "JavaScript":60,
+        "TypeScript":50,
+        "HTML5":80,
+        "CSS3":65,
+        "Node_Js":50,
+        "ExpressJs":40,
+        "Kendo_UI": 40,
+        "Bootstrap":80
+      },
+      "othersA": "Paranormal",
+       "othersB": "Outer Space Life",
+     "language": {
+      "motherTounge":"Tamil",
+      "olanguage":"English"
+     },
+     "projecDetails":{
+      "thirdproName" : "Compass Application - Replatforming",
+      "thirdClient": "NBCU",
+
+      "secondProName":"CodeMate",
+      "secondClient": "In-house",
+
+      "firstProName" : "Bandwidth Managment System",
+      "firstClient": "In-house"
+     },
+     "profileImage":"src/app/assets/img/profile.JPG",
+     "isDisable":true,
+     "fbLink":"https://www.facebook.com/Skuordiyea",
+     "linkedIn":"https://www.linkedin.com/in/jayasuriya-m-%E3%83%84-5b344b57/"
+
+}
